@@ -54,3 +54,4 @@ The purpose of this analysis is to employ different machine learning techniques 
 -Imbalanced classification report:![EasyEnsembleClassifier_classification_report](https://user-images.githubusercontent.com/93107507/160962929-8dcc9f27-9920-49a1-ae8f-d9e87c64b56b.png)
 
 ## Summary
+The Naive Random Oversampling, SMOTE, Cluster Centroid, and SMOTEENN models are not good models to predict credit risk due to their low F1 and precision scores. The Easy Ensemble Classifier model did the best in predicting credit risk, by having an. f1 score of 0.16, which is higher than the other models explored in this analysis.
