@@ -53,3 +53,4 @@ The purpose of this analysis is to employ different machine learning techniques 
 
 -Imbalanced classification report:![EasyEnsembleClassifier_classification_report](https://user-images.githubusercontent.com/93107507/160962929-8dcc9f27-9920-49a1-ae8f-d9e87c64b56b.png)
 
+## Summary
