@@ -1,7 +1,11 @@
 # Credit Risk Analysis
 
-## Deliverable 1: Resampling Models to Predict Credit Risk
-### Naive Random Oversampling
+## Overview
+The purpose of this analysis is to employ different machine learning techniques to train and evaluate models with unbalanced classes using the credit card dataset from LendingClub, a peer-to-peer lending service company, to predict credit risk.
+
+## Results
+### Deliverable 1: Resampling Models to Predict Credit Risk
+#### Naive Random Oversampling
 -Accuracy score:
 
 -Confusion matrix: ![RandomOverSampler_confusion_matrix](https://user-images.githubusercontent.com/93107507/160961160-7b006588-0296-4c33-9a88-e6d4ede62575.png)
