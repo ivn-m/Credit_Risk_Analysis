@@ -12,14 +12,14 @@ The purpose of this analysis is to employ different machine learning techniques 
 
 -Imbalanced classification report: ![RandomOverSampler_classification_report](https://user-images.githubusercontent.com/93107507/160961178-f8c5f43e-cf47-4589-beb6-6b4b32455e53.png)
 
-### SMOTE Oversampling
+#### SMOTE Oversampling
 -Accuracy score:
 
 -Confusion matrix: ![SMOTE_confusion_matrix](https://user-images.githubusercontent.com/93107507/160961222-5b5dc1a4-fcff-4369-80b4-2f322b7db397.png)
 
 -Imbalanced classification report:![SMOTE_classification_report](https://user-images.githubusercontent.com/93107507/160961206-9ad075b1-beea-40fb-be4c-43108079df91.png)
 
-### Cluster Centroid (Undersampling)
+#### Cluster Centroid (Undersampling)
 -Accuracy score:
 
 -Confusion matrix: ![ClusterCentroid_confusion_matrix](https://user-images.githubusercontent.com/93107507/160961251-58f30d8b-e48d-4271-8f79-5bfdc651b765.png)
@@ -27,25 +27,29 @@ The purpose of this analysis is to employ different machine learning techniques 
 -Imbalanced classification report: ![ClusterCentroid_classification_imbalanced_report](https://user-images.githubusercontent.com/93107507/160961279-4d902513-cda8-47bc-b5d9-0cd9b240b4ba.png)
 
 
-## Deliverable 2: Using SMOTEEN algorithm to Predict Credit Risk
-### SMOTEEN 
+### Deliverable 2: Using SMOTEEN algorithm to Predict Credit Risk
+#### SMOTEEN 
 -Accuracy score:
 
--Confusion matrix:
+-Confusion matrix:![SMOTEENN_confusion_matrix](https://user-images.githubusercontent.com/93107507/160962858-ed1b8b8d-b9a7-4aba-bd86-5dc4aaba6360.png)
 
--Imbalanced classification report:
 
-## Deliverable 3: Using Ensemble Classifiers to Predict Credit Risk
-### Balanaced Random Forest Classifier
+-Imbalanced classification report:![SMOTEENN_classification_report](https://user-images.githubusercontent.com/93107507/160962834-beccff9e-13a7-4712-ad58-609c297c1ee7.png)
+
+
+### Deliverable 3: Using Ensemble Classifiers to Predict Credit Risk
+#### Balanced Random Forest Classifier
 -Accuracy score:
 
--Confusion matrix:
+-Confusion matrix:![BalancedRandomForestClassifier_confusion_matrix](https://user-images.githubusercontent.com/93107507/160962906-31089a96-de46-4d66-9865-ccdd570a0c8b.png)
 
--Imbalanced classification report:
+-Imbalanced classification report:![BalancedRandomForestClassifier_classification_report](https://user-images.githubusercontent.com/93107507/160962891-ca529cce-c4e0-496c-b7e5-b5407f66cf50.png)
 
-### Easy Ensemble Classifer:
+
+#### Easy Ensemble Classifer:
 -Accuracy score:
 
--Confusion matrix:
+-Confusion matrix:![EasyEnsembleClassifier_confusion_matrix](https://user-images.githubusercontent.com/93107507/160962942-d332a1ae-df6c-405e-9a4b-154df289dfd7.png)
 
--Imbalanced classification report:
+-Imbalanced classification report:![EasyEnsembleClassifier_classification_report](https://user-images.githubusercontent.com/93107507/160962929-8dcc9f27-9920-49a1-ae8f-d9e87c64b56b.png)
+
