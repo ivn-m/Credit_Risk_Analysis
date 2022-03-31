@@ -25,6 +25,23 @@
 
 ## Deliverable 2: Using SMOTEEN algorithm to Predict Credit Risk
 ### SMOTEEN 
+-Accuracy score:
+
+-Confusion matrix:
+
+-Imbalanced classification report:
 
 ## Deliverable 3: Using Ensemble Classifiers to Predict Credit Risk
-### 
+### Balanaced Random Forest Classifier
+-Accuracy score:
+
+-Confusion matrix:
+
+-Imbalanced classification report:
+
+### Easy Ensemble Classifer:
+-Accuracy score:
+
+-Confusion matrix:
+
+-Imbalanced classification report:
